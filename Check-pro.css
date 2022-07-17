@@ -1,0 +1,15 @@
+.c-pro{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-bottom: 2px solid rgb(156, 148, 148);
+}
+.c-im{
+    height: 180px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+.ch-but{
+    background-color: rgb(232, 160, 26);
+}

@@ -1,0 +1,41 @@
+.product{
+    display: flex;
+    flex-direction: column;
+   align-items: left;
+   margin: 20px;
+   padding: 40px;
+   width: 100%;
+   justify-content: flex-end;
+   z-index: 1;
+   max-width: 300px;
+   max-height: 400px;
+   background: white;
+   border-radius: 20%;
+   
+}
+
+.product > img{
+
+    max-height: 200px;
+    width: 100%;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+.product > button{
+
+    background: orange;
+    border: 2px solid;
+    margin-top: 10px;
+}
+.p_info{
+    text-align: left;
+    margin-top: -30px;
+}
+.p_rate{
+
+    display: flex;
+    margin-top: auto;
+}
+.ok{
+    margin-bottom: -18px;
+}
